@@ -12,7 +12,7 @@ namespace laba3
         {
             for (int i=0;i<19;i++)
             {
-                Console.WriteLine("ооооо нормально)))))))");
+                Console.WriteLine("ооооо нормально))))))))");
             }
             Console.ReadKey();
         }
